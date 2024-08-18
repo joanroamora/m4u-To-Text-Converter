@@ -67,3 +67,5 @@ Este script de Python convierte archivos de audio `.m4a` a formato `.wav` y lueg
   2. Transcribe el audio en partes.
   3. Guarda la transcripción en un archivo de texto.
   4. Elimina el archivo `.wav` temporal después de ser procesado.
+
+eso es todo.
