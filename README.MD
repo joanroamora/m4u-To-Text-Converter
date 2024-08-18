@@ -1,4 +1,4 @@
-# 🏳️‍🇺🇸 Code Documentation in English
+# 🏳️‍🇺🇸   Code Documentation in English
 
 ### Description
 This Python script converts `.m4a` audio files to `.wav` format and then transcribes the audio content into text using Google Speech Recognition. The transcription process handles long audio files by breaking them into smaller chunks for better accuracy. The transcriptions are saved in text files, and the intermediary `.wav` files are deleted after processing.
@@ -34,7 +34,7 @@ This Python script converts `.m4a` audio files to `.wav` format and then transcr
 
 ---
 
-# 🏳️‍🌐 Documentación del Código en Español
+# 🏳🇨🇴 Documentación del Código en Español
 
 ### Descripción
 Este script de Python convierte archivos de audio `.m4a` a formato `.wav` y luego transcribe el contenido del audio en texto usando Google Speech Recognition. El proceso de transcripción maneja archivos de audio largos dividiéndolos en partes más pequeñas para mejorar la precisión. Las transcripciones se guardan en archivos de texto, y los archivos `.wav` intermedios se eliminan después de ser procesados.
